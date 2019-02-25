@@ -1,0 +1,48 @@
+body{
+	margin: 0 10% 0 10%;
+	background-image: url("images/background.gif");
+}
+.container{
+	margin: 0 10% 0 10%;
+	border: 10px white solid;
+	background-color: white !important;
+} 
+#main{
+	background-color: white;
+	overflow: hidden;
+}
+div:hover{
+	background-color: yellow;
+
+}
+ 
+.left{
+	float: left;
+	border: 4px #C2E9E9 solid;
+	margin-top: 10px;
+	background-color: #e8fbfb; 
+	padding: 5px;
+	 
+}
+.header{	 
+	text-align: right;
+	background: #A8F0F0;
+}
+ 
+.header h2{
+	/*border: 5px orange solid;*/
+	font-size: 14pt;
+}
+.section{	
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	float: right;
+	box-sizing: border-box;
+	width: 75%;
+	border: 4px #C2E9E9 solid;
+}
+img{
+	float: right;
+}
+
